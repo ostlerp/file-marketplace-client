@@ -1,9 +1,10 @@
 {
   "name": "client",
-  "version": "6.9.5",
+  "version": "0.0.1",
   "description": "",
   "engines": {
-    "npm": ">=3"
+    "npm": ">=3",
+    "node": "6.9.5"
   },
   "scripts": {
     "preinstall": "node tools/nodeVersionCheck.js",

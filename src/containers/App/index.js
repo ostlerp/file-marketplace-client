@@ -9,7 +9,7 @@ class App extends React.Component {
 	render() {
 		return (
 			<div>
-				<h1>Hi!</h1>
+				<h1>Hi firebase!</h1>
 				<button type="button" className="btn btn-primary">Test Button</button>
 			</div>
 		);
